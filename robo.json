@@ -1,0 +1,16 @@
+{
+  "arm": {
+    "left": {
+      "elbow": "2",
+      "wrist": "1"
+    },
+    "right": {
+      "elbow": "2",
+      "wrist": "1"
+    }
+  },
+  "head": {
+    "rotate": "2",
+    "tilted_head": "2"
+  }
+}
